@@ -1,6 +1,8 @@
 # Linux Primer
 
-## Commands
+## Index
+
+1. [whoami](#pwd)
 
 ### whoami
 
